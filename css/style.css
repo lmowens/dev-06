@@ -1,0 +1,37 @@
+
+  body {
+    background-color: #83c3e0;
+  }
+  .backGround {
+    background-color: #2e2c2c;
+    text-align: center;
+  }
+  .banner-Text {
+    font-size: 40px;
+    color: #f5ecec ;
+  }
+  .JS-stuff {
+    border: clear;
+    position: relative;
+    top: 300px;
+    left: 400px;
+  }
+  .title{
+    color: white;
+  }
+
+  .title2{
+    color:#2e2c2c;
+  }
+  
+  .output-box {
+    width: 390px;
+    background-color: whitesmoke;
+    
+  }
+  .footer {
+    position: fixed;
+    bottom:0px;
+    color: #2e2c2c;
+  }
+  
